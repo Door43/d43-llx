@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[llx:home|Door43 (llx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-llx|d43-llx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-llx/archive/master.zip|d43-llx.zip]]
+
+**Recent Changes**
+{{changes>ns = llx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/llx|Ethnologue data]]
+
